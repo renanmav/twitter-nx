@@ -2,7 +2,9 @@
   "name": "twitter-nx",
   "version": "0.0.0",
   "license": "MIT",
-  "scripts": {},
+  "scripts": {
+    "start:api": "yarn nx serve api"
+  },
   "private": true,
   "dependencies": {},
   "devDependencies": {
